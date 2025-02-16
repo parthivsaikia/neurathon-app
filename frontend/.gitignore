@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Node.js
+node_modules/
+.next/
+.env.local
+
+# Python
+__pycache__/
+.env
+
+# Docker
+*.log
+docker-compose.override.yml
